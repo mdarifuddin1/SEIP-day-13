@@ -1,0 +1,27 @@
+[class*="col-"]{
+    border: 1px solid ;
+}
+
+.h-50{
+    height: 50px !important;
+}
+.h-100{
+    height: 100px !important;
+}
+.h-200{
+    height: 200px !important;
+}
+
+nav{
+    text-align: center;
+}
+.my-navbar-nav li{
+    list-style: none;
+    display: inline-block;
+}
+
+.my-navbar-nav a{
+  text-decoration: none;
+  padding: 30px;
+  margin: 10px;
+}
